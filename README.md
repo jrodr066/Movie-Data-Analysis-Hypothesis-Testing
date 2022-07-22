@@ -2,7 +2,7 @@
 
 # Authors:
  
-Jennifer Rodriguez Trujillo
+Jennifer Rodriguez-Trujillo
 
 # Research Question: 
 
